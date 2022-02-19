@@ -1,4 +1,4 @@
-# something
+# Project
 
   ## Description
   undefined
@@ -35,4 +35,4 @@
   ---
   #Contact me
   undefined
-  [somethingelse](https://github.com/somethingelse)
+  [ErinnMatesi](https://github.com/ErinnMatesi)

@@ -66,7 +66,7 @@ init();
 inquirer.prompt(questions)
 .then ((data) => {
     const generateContent = generateMarkdown(data);
-    fs.writeFile('ReadMe.md', generateContent, (error) => 
+    fs.writeFile('./utils/ReadMe.md', generateContent, (error) => 
         error ? console.log(err) : console.log('Created ReadMe.md')
     )
 });
