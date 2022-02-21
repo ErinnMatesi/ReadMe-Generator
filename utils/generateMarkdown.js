@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
   if (license === 'none') {
     return ""
   } else {
-    return `# License
+    return `## License
 ${renderLicenseBadge(license)}`
   }
 }
@@ -68,7 +68,7 @@ ${data.test}
 ${renderLicenseSection(data.license)}
 
 ---
-#Questions
+### Questions
 ${data.email}
 [${data.github}](https://github.com/${data.github})
 `;
