@@ -15,6 +15,7 @@ Pull this file from the repo and use npm i to install dependencies (inquirer).
 
 ## Usage
 Open your terminal and navigate to the directory, then use node to run the index.js file and answer the prompts. A new ReadMe will be generated in the utils folder.
+See video for a *[walkthrough](https://drive.google.com/file/d/1_Ylo5RcmLkjtz9pwLUXH0IEM-IMEnnm8/view)*.
 
 ## Contributions
 Please reach out directly to inquire about contributions.
