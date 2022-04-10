@@ -58,11 +58,11 @@ const questions = [
 function init() {
     inquirer.prompt(questions)
     .then ((data) => {
-    const generateContent = generateMarkdown(data);
-    fs.writeFile('./utils/ReadMe.md', generateContent, (error) => 
-        error ? console.log(err) : console.log('Created ReadMe.md')
-    )
-});
+        const generateContent = generateMarkdown(data);
+        fs.writeFile('./utils/ReadMe.md', generateContent, (error) => 
+            error ? console.log(err) : console.log('Created ReadMe.md')
+        )
+    });
 };
 
 // Function call to initialize app

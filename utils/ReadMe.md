@@ -1,29 +1,28 @@
-# My App
+# MVC Tech Blog
 
 ## Description
-It does stuff!
+A blog site where users can post and discuss current tech trends.
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Testing](#testing)
 * [Questions](#questions)
-* [License](#license)
+
 
 ## Installation
-Follow along
+Create an account to access your dashboard and write new blog posts.
 
 ## Usage
-example text
+
 
 ## Contributions
-N/A currently
+
 
 ## Testing
-sample text
 
-## License
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
+
 
 ---
 ### Questions

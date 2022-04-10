@@ -48,6 +48,7 @@ ${data.description}
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Technology](#technology)
 * [Testing](#testing)
 * [Questions](#questions)
 ${renderLicenseLink(data.license)}
@@ -57,6 +58,9 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
+
+## Technology Used
+-
 
 ## Contributions
 ${data.contributions}
